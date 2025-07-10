@@ -2,11 +2,6 @@
 <h3 align="center">Computer Engineering student at Istanbul Medeniyet University</h3>
 
 ---
-
-🎓 I’m currently studying Computer Engineering at **Istanbul Medeniyet University**  
-
----
-
 ### 🧠 Languages I Know:
 
 <p>
