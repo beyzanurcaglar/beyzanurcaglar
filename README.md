@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering student at Istanbul Medeniyet University</h3>
 
 ---
-### 🧠 Languages I Know:
+### Languages I Know:
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
